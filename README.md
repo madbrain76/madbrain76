@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Julien Pierre.
-- 👀 I’m interested in embedded systems, networking, security, cryptography, home automation.
+- 👀 I’m interested in embedded systems, networking, security, cryptography, home automation, baroque music.
